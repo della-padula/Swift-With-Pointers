@@ -1,0 +1,6 @@
+framework module Pods_Swift_With_PointersTests {
+  umbrella header "Pods-Swift-With-PointersTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

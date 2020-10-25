@@ -1,0 +1,6 @@
+framework module Pods_Swift_With_Pointers {
+  umbrella header "Pods-Swift-With-Pointers-umbrella.h"
+
+  export *
+  module * { export * }
+}

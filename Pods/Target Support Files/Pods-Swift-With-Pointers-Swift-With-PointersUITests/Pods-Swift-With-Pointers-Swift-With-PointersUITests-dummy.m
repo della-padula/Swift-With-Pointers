@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Swift_With_Pointers_Swift_With_PointersUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Swift_With_Pointers_Swift_With_PointersUITests
+@end
